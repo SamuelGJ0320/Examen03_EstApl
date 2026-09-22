@@ -1,0 +1,501 @@
+edad_meses,km_recorridos,carga_promedio,tipo_ruta,plan_preventivo,costo_mantenimiento
+70.0,6.9,11.7,Larga Distancia,No,7275.02
+78.0,8.8,21.5,Urbana,No,6102.16
+97.0,9.7,20.1,Urbana,Si,4927.06
+65.0,10.7,21.7,Urbana,No,7067.11
+18.0,9.2,22.3,Urbana,No,4396.42
+57.0,2.0,5.6,Urbana,No,2411.99
+28.0,6.1,16.4,Urbana,No,4141.55
+18.0,7.9,24.7,Urbana,No,3840.42
+73.0,9.7,21.7,Urbana,No,7356.74
+77.0,10.9,17.9,Urbana,No,8414.94
+53.0,16.6,33.9,Urbana,No,9662.66
+62.0,7.3,12.1,Urbana,No,6893.04
+48.0,8.1,13.5,Larga Distancia,Si,3368.24
+42.0,12.0,22.2,Larga Distancia,Si,5767.29
+56.0,7.2,14.6,Urbana,No,5415.97
+48.0,3.1,5.0,Urbana,Si,1244.37
+28.0,4.7,5.0,Larga Distancia,No,3568.96
+69.0,6.6,6.8,Urbana,No,4766.27
+47.0,5.2,12.0,Larga Distancia,Si,3364.23
+13.0,2.8,10.2,Larga Distancia,No,3159.01
+63.0,7.1,13.1,Urbana,No,6461.01
+75.0,5.6,9.3,Urbana,Si,2729.54
+47.0,10.4,18.9,Urbana,No,6323.25
+44.0,8.4,14.9,Urbana,No,6038.26
+25.0,12.4,24.2,Urbana,No,4472.47
+27.0,8.7,20.8,Larga Distancia,No,5498.73
+65.0,10.9,27.8,Urbana,No,7967.34
+62.0,4.6,8.1,Urbana,Si,1465.7
+54.0,11.9,24.1,Larga Distancia,No,8686.56
+72.0,4.9,5.1,Urbana,Si,1130.51
+25.0,10.0,26.1,Urbana,No,5820.23
+25.0,7.1,20.9,Urbana,Si,2226.84
+70.0,11.7,25.8,Urbana,No,7082.65
+55.0,9.8,13.2,Urbana,No,6036.34
+34.0,2.6,5.0,Larga Distancia,No,2343.37
+47.0,10.3,16.2,Larga Distancia,No,8837.09
+40.0,12.0,27.6,Larga Distancia,No,8244.88
+23.0,8.5,23.1,Larga Distancia,No,5576.5
+28.0,8.8,16.2,Larga Distancia,No,6396.41
+54.0,7.1,5.3,Urbana,Si,2344.65
+54.0,9.7,21.2,Larga Distancia,Si,5242.26
+33.0,4.9,8.6,Urbana,No,2989.09
+32.0,6.3,15.5,Larga Distancia,No,4499.73
+59.0,12.3,23.3,Urbana,Si,5121.05
+63.0,7.5,16.1,Urbana,No,6099.24
+42.0,7.2,22.2,Urbana,Si,2598.73
+18.0,9.1,20.4,Urbana,No,3608.83
+45.0,5.4,10.6,Larga Distancia,Si,2751.34
+37.0,8.0,19.7,Larga Distancia,Si,4258.51
+17.0,7.7,20.1,Larga Distancia,No,5151.1
+43.0,9.4,15.8,Larga Distancia,No,8337.24
+86.0,11.8,23.4,Urbana,Si,5313.35
+37.0,7.5,22.0,Urbana,Si,3242.29
+51.0,8.8,17.7,Urbana,No,4953.08
+45.0,6.1,14.1,Urbana,No,4985.64
+66.0,7.3,8.1,Urbana,Si,2707.59
+46.0,10.3,19.2,Larga Distancia,No,7402.82
+50.0,10.0,22.4,Urbana,No,6230.93
+40.0,4.8,9.5,Larga Distancia,No,4811.94
+60.0,9.6,20.1,Urbana,No,6884.49
+46.0,3.7,9.9,Larga Distancia,No,4727.41
+55.0,13.0,20.1,Urbana,Si,4689.66
+59.0,11.4,23.5,Larga Distancia,Si,5857.43
+40.0,7.9,17.1,Larga Distancia,No,6175.25
+44.0,8.4,18.9,Larga Distancia,Si,3111.06
+113.0,11.6,18.2,Urbana,No,10233.87
+55.0,8.4,19.5,Urbana,No,6636.44
+60.0,3.6,5.0,Urbana,No,3345.27
+48.0,9.0,19.2,Larga Distancia,No,5044.46
+66.0,9.0,18.3,Larga Distancia,No,6506.41
+36.0,7.2,14.7,Urbana,No,4198.21
+76.0,9.0,22.1,Urbana,Si,3671.85
+30.0,8.0,15.8,Urbana,No,4240.17
+48.0,11.7,25.3,Urbana,Si,4683.82
+53.0,8.3,20.5,Urbana,Si,3301.61
+76.0,13.0,22.0,Urbana,Si,4444.56
+73.0,11.1,16.1,Larga Distancia,Si,5404.48
+33.0,8.4,19.8,Urbana,No,4751.22
+42.0,7.9,21.2,Urbana,No,5035.12
+52.0,7.7,14.3,Larga Distancia,No,6961.95
+42.0,7.4,16.6,Urbana,No,4773.06
+67.0,8.7,14.9,Urbana,No,5590.83
+35.0,14.2,30.5,Larga Distancia,No,8489.36
+41.0,3.4,7.4,Larga Distancia,No,3914.93
+62.0,11.6,28.1,Urbana,Si,5200.94
+50.0,7.2,14.5,Larga Distancia,No,7141.99
+47.0,2.4,5.0,Urbana,No,3975.86
+51.0,9.6,18.4,Urbana,No,5415.61
+28.0,7.7,20.8,Urbana,No,3664.28
+42.0,5.3,11.0,Urbana,Si,2011.89
+72.0,10.5,26.0,Urbana,No,8465.97
+60.0,12.5,25.4,Urbana,No,8708.68
+23.0,11.5,26.6,Urbana,No,5251.23
+61.0,13.0,24.7,Urbana,Si,4461.18
+78.0,11.0,20.0,Larga Distancia,No,9841.23
+62.0,10.9,28.1,Larga Distancia,Si,6660.15
+75.0,10.2,15.3,Larga Distancia,No,9502.46
+35.0,7.1,12.2,Urbana,No,3462.45
+87.0,6.3,13.8,Urbana,Si,3321.07
+40.0,6.9,17.6,Urbana,No,3364.66
+33.0,10.4,23.0,Larga Distancia,No,6640.4
+36.0,6.8,19.7,Urbana,No,4986.03
+62.0,7.1,13.4,Larga Distancia,Si,4995.73
+51.0,5.4,11.2,Larga Distancia,No,5468.88
+68.0,6.3,14.3,Urbana,Si,2797.39
+51.0,9.9,19.2,Larga Distancia,No,5999.62
+48.0,8.1,13.6,Urbana,No,5012.08
+75.0,11.9,19.1,Urbana,No,8575.63
+37.0,11.1,20.0,Urbana,No,6481.08
+55.0,8.6,19.2,Larga Distancia,No,7325.25
+51.0,5.4,6.6,Larga Distancia,Si,2403.44
+49.0,9.1,18.5,Larga Distancia,No,7340.08
+45.0,5.7,15.4,Urbana,No,5556.86
+79.0,11.3,20.2,Urbana,No,7861.8
+29.0,10.8,19.7,Larga Distancia,No,5624.48
+46.0,8.3,18.3,Urbana,No,4928.99
+69.0,6.1,7.2,Larga Distancia,No,5987.28
+52.0,11.6,22.9,Urbana,No,6390.54
+72.0,11.4,19.4,Larga Distancia,No,9849.54
+7.0,12.2,29.7,Urbana,No,5565.01
+56.0,7.9,13.6,Larga Distancia,No,6106.05
+35.0,10.0,24.2,Larga Distancia,No,6832.83
+13.0,8.7,24.7,Larga Distancia,Si,3459.22
+44.0,13.7,31.3,Urbana,No,8209.61
+25.0,8.8,17.2,Urbana,No,3276.88
+34.0,8.5,21.3,Urbana,No,4686.04
+41.0,9.6,25.2,Urbana,Si,3777.65
+68.0,13.0,25.0,Larga Distancia,No,10560.89
+55.0,9.5,16.9,Larga Distancia,Si,4329.27
+33.0,8.3,16.5,Larga Distancia,No,5495.51
+30.0,5.6,11.4,Urbana,Si,3096.21
+52.0,12.8,28.3,Urbana,No,6334.27
+54.0,8.4,16.3,Urbana,No,5538.64
+43.0,5.8,8.7,Urbana,No,4285.42
+58.0,11.6,25.6,Larga Distancia,No,8296.91
+29.0,12.2,28.6,Larga Distancia,No,7636.15
+47.0,6.3,13.1,Urbana,Si,1928.32
+42.0,8.1,19.7,Urbana,No,3875.28
+28.0,10.4,28.9,Urbana,No,6373.08
+50.0,12.6,20.1,Urbana,No,6470.71
+75.0,6.9,7.0,Larga Distancia,No,5424.36
+70.0,11.1,20.0,Urbana,No,7035.25
+45.0,6.0,8.8,Larga Distancia,Si,3528.88
+45.0,8.9,25.5,Larga Distancia,No,7761.92
+44.0,9.5,24.9,Larga Distancia,No,8317.9
+24.0,9.2,16.9,Urbana,No,3884.78
+12.0,5.1,17.4,Urbana,No,2537.05
+59.0,9.6,20.2,Urbana,No,6702.67
+26.0,8.9,17.1,Larga Distancia,No,6222.14
+43.0,4.9,8.4,Urbana,No,3231.91
+45.0,12.7,25.0,Urbana,No,7899.66
+61.0,9.5,19.7,Urbana,Si,3682.78
+45.0,5.0,8.5,Urbana,No,5048.95
+27.0,6.0,19.3,Urbana,No,2742.8
+85.0,10.0,21.2,Urbana,Si,5649.26
+51.0,6.2,12.5,Urbana,Si,1851.05
+29.0,5.7,15.0,Larga Distancia,No,5496.36
+18.0,4.2,13.1,Urbana,No,2723.99
+48.0,10.5,21.2,Urbana,Si,3773.23
+33.0,14.5,32.3,Larga Distancia,No,8105.72
+67.0,12.9,18.0,Larga Distancia,Si,5057.39
+23.0,3.9,15.8,Urbana,No,3398.85
+27.0,2.9,13.2,Larga Distancia,Si,2902.16
+59.0,12.3,26.6,Larga Distancia,No,9161.08
+64.0,10.9,18.8,Urbana,Si,4180.11
+37.0,7.0,15.2,Urbana,No,3585.37
+42.0,7.7,19.3,Larga Distancia,No,5992.44
+47.0,7.9,20.0,Urbana,No,6012.78
+23.0,6.0,10.1,Urbana,No,2491.83
+59.0,12.7,27.8,Urbana,Si,5746.59
+40.0,6.1,19.8,Larga Distancia,Si,3578.68
+56.0,10.4,24.6,Urbana,Si,3384.72
+45.0,6.9,14.9,Urbana,Si,3504.55
+43.0,13.6,30.5,Urbana,Si,4492.12
+60.0,10.2,19.6,Urbana,No,6172.22
+40.0,8.3,14.1,Larga Distancia,Si,4730.81
+34.0,6.2,15.0,Urbana,No,3332.79
+76.0,8.6,14.8,Larga Distancia,No,8863.1
+29.0,2.2,8.4,Larga Distancia,Si,2019.0
+46.0,7.7,18.3,Urbana,No,4959.72
+70.0,12.9,26.0,Larga Distancia,No,12473.54
+24.0,6.5,21.1,Urbana,No,4761.95
+104.0,14.0,26.3,Urbana,No,11632.49
+30.0,8.1,18.7,Larga Distancia,No,4998.92
+51.0,10.8,29.0,Urbana,Si,4842.47
+62.0,6.8,11.2,Urbana,No,6357.33
+27.0,7.1,16.3,Urbana,Si,4186.9
+44.0,11.4,26.9,Larga Distancia,Si,5351.06
+14.0,5.7,10.5,Larga Distancia,Si,3770.37
+38.0,6.6,17.1,Larga Distancia,No,4194.11
+46.0,7.3,20.0,Urbana,Si,3657.24
+44.0,4.6,11.0,Urbana,No,3886.15
+55.0,6.8,19.7,Larga Distancia,No,7575.27
+44.0,11.4,22.1,Urbana,No,5565.42
+28.0,8.4,17.1,Urbana,Si,3190.34
+34.0,9.7,16.6,Urbana,Si,2311.72
+36.0,2.2,11.3,Urbana,No,2487.48
+47.0,6.1,17.3,Urbana,No,4585.52
+45.0,8.6,16.2,Larga Distancia,No,6403.17
+76.0,9.2,11.4,Larga Distancia,No,10682.43
+25.0,9.0,23.3,Larga Distancia,Si,4274.33
+55.0,6.0,11.0,Larga Distancia,No,5589.76
+9.0,8.8,25.5,Urbana,Si,2830.66
+47.0,6.0,17.0,Urbana,Si,1833.97
+36.0,9.8,25.3,Urbana,No,6457.88
+56.0,8.5,21.1,Larga Distancia,No,8197.49
+60.0,9.7,20.0,Urbana,No,5313.69
+29.0,6.9,14.8,Larga Distancia,Si,2540.78
+53.0,12.0,24.5,Urbana,No,6618.25
+61.0,6.9,19.4,Urbana,No,7153.55
+61.0,12.1,18.6,Urbana,Si,3405.33
+36.0,12.4,27.3,Urbana,No,7233.48
+27.0,11.9,31.0,Urbana,No,6430.89
+32.0,5.9,8.8,Urbana,Si,2019.6
+60.0,5.3,7.0,Larga Distancia,Si,2695.14
+63.0,11.7,21.6,Urbana,Si,4784.13
+57.0,5.5,11.7,Larga Distancia,Si,3182.16
+71.0,9.4,16.1,Urbana,Si,3479.08
+32.0,7.8,19.4,Larga Distancia,No,5437.37
+51.0,13.1,31.0,Larga Distancia,No,10845.96
+73.0,8.7,12.7,Larga Distancia,No,7744.11
+60.0,8.3,18.0,Urbana,Si,3554.45
+51.0,3.3,8.8,Urbana,No,4445.45
+14.0,9.5,19.5,Larga Distancia,No,4931.58
+24.0,8.4,21.0,Larga Distancia,No,6724.1
+36.0,9.4,28.5,Urbana,No,5314.85
+31.0,6.0,16.6,Urbana,No,4164.29
+37.0,8.2,17.4,Urbana,No,4405.37
+63.0,8.0,16.1,Larga Distancia,No,7011.26
+26.0,8.3,16.9,Larga Distancia,No,4711.75
+80.0,10.0,18.1,Larga Distancia,No,8692.83
+50.0,10.4,27.5,Urbana,No,6219.96
+27.0,8.4,23.7,Urbana,Si,3813.76
+29.0,8.8,17.8,Larga Distancia,Si,3646.2
+16.0,6.8,16.3,Urbana,No,3668.85
+32.0,5.2,8.4,Urbana,No,4693.46
+34.0,5.3,6.2,Larga Distancia,Si,1901.59
+59.0,10.3,21.3,Urbana,Si,2670.13
+52.0,9.0,15.8,Urbana,No,4684.71
+60.0,8.2,16.0,Urbana,No,6312.01
+31.0,6.1,16.2,Larga Distancia,Si,3067.9
+71.0,7.9,20.6,Urbana,No,7158.2
+40.0,6.3,13.8,Urbana,No,4739.04
+40.0,4.4,21.0,Urbana,No,3986.54
+56.0,11.8,17.1,Urbana,No,7390.19
+26.0,8.9,21.7,Larga Distancia,Si,2987.47
+59.0,9.5,18.5,Urbana,No,6962.22
+49.0,8.8,18.2,Urbana,No,6131.86
+51.0,4.9,10.5,Urbana,No,3896.65
+30.0,7.8,23.3,Urbana,No,5481.84
+25.0,7.0,22.4,Urbana,No,5287.51
+62.0,11.5,29.2,Larga Distancia,No,11783.21
+50.0,7.5,11.8,Urbana,No,6202.64
+73.0,8.6,9.5,Urbana,Si,3168.05
+79.0,17.0,27.7,Urbana,Si,6698.33
+69.0,13.8,30.5,Urbana,No,9381.95
+93.0,9.6,24.6,Larga Distancia,No,7722.95
+41.0,10.1,17.2,Larga Distancia,No,7172.37
+53.0,10.5,16.9,Larga Distancia,Si,6849.46
+45.0,6.4,10.8,Urbana,Si,2820.89
+52.0,14.5,29.5,Urbana,No,7086.59
+27.0,10.2,22.0,Urbana,No,4295.39
+62.0,10.5,17.6,Larga Distancia,No,7055.77
+46.0,10.3,26.5,Urbana,No,8037.8
+69.0,6.6,9.7,Urbana,No,5567.12
+65.0,8.9,11.6,Urbana,No,6278.93
+59.0,9.1,17.7,Urbana,No,6335.27
+88.0,11.7,22.7,Urbana,No,7986.44
+74.0,6.3,10.1,Urbana,No,4638.77
+58.0,7.1,19.9,Urbana,No,6203.78
+29.0,8.7,15.5,Urbana,Si,3117.45
+15.0,5.3,12.3,Urbana,No,1759.84
+59.0,10.7,18.4,Urbana,No,7271.51
+57.0,9.4,12.5,Urbana,Si,4278.73
+54.0,8.4,17.2,Larga Distancia,No,6785.67
+72.0,10.5,25.0,Larga Distancia,No,9093.95
+72.0,7.9,11.3,Urbana,No,7007.68
+26.0,10.0,20.5,Urbana,No,4668.1
+31.0,6.2,19.1,Urbana,No,3611.29
+30.0,8.8,19.6,Larga Distancia,No,4574.93
+47.0,9.1,16.5,Larga Distancia,Si,4067.69
+31.0,9.2,20.5,Urbana,No,6396.56
+59.0,9.3,16.1,Urbana,No,6964.06
+45.0,2.8,5.0,Urbana,No,2964.42
+57.0,12.2,27.8,Urbana,Si,5156.34
+70.0,9.9,19.8,Larga Distancia,No,9534.16
+83.0,9.1,16.5,Urbana,Si,3924.1
+74.0,12.5,19.0,Urbana,Si,3825.24
+16.0,6.9,16.6,Urbana,No,3454.34
+51.0,6.4,11.1,Urbana,Si,2677.58
+41.0,5.5,8.9,Urbana,No,3559.43
+70.0,9.3,23.1,Larga Distancia,Si,5552.63
+46.0,8.3,21.4,Larga Distancia,Si,4104.84
+28.0,9.9,20.9,Urbana,Si,3783.84
+79.0,13.7,28.0,Urbana,Si,4629.71
+66.0,5.3,6.6,Urbana,No,3786.74
+87.0,6.8,8.8,Larga Distancia,No,7162.03
+34.0,6.2,14.3,Larga Distancia,No,5322.28
+37.0,8.9,16.3,Urbana,No,4504.38
+41.0,6.4,12.0,Larga Distancia,No,5400.94
+37.0,5.0,16.5,Urbana,No,4552.84
+53.0,9.4,19.6,Urbana,Si,5593.74
+50.0,14.0,31.3,Urbana,Si,5605.17
+42.0,9.3,17.8,Urbana,No,4703.14
+61.0,10.7,19.5,Urbana,Si,4195.44
+58.0,8.9,21.4,Urbana,No,6440.28
+28.0,5.3,13.0,Larga Distancia,No,4643.56
+62.0,7.4,11.8,Larga Distancia,No,7151.92
+47.0,5.6,10.1,Urbana,No,3725.5
+43.0,10.6,26.7,Larga Distancia,No,8491.28
+68.0,7.4,11.5,Urbana,Si,3021.79
+93.0,11.2,19.1,Urbana,Si,5650.61
+38.0,7.1,14.1,Larga Distancia,No,5041.93
+28.0,15.1,35.0,Urbana,Si,6280.79
+70.0,10.8,25.4,Urbana,Si,4993.74
+32.0,8.1,23.5,Urbana,Si,4304.53
+46.0,10.1,20.3,Urbana,No,5842.68
+64.0,7.3,15.1,Urbana,Si,2540.03
+43.0,12.2,30.5,Urbana,No,5773.58
+37.0,9.4,22.2,Urbana,No,6221.59
+85.0,12.8,24.4,Urbana,No,10191.21
+54.0,9.4,15.3,Larga Distancia,No,8489.91
+55.0,9.1,21.0,Urbana,No,6199.76
+19.0,5.8,7.7,Larga Distancia,Si,2802.25
+49.0,10.9,24.6,Urbana,No,6808.98
+40.0,8.1,17.7,Urbana,Si,2889.25
+18.0,6.2,14.2,Urbana,No,2715.36
+48.0,6.0,13.1,Urbana,No,4606.5
+57.0,13.9,27.9,Larga Distancia,Si,8002.13
+45.0,12.3,28.7,Larga Distancia,No,9298.93
+57.0,8.4,11.3,Larga Distancia,No,5960.54
+87.0,10.0,20.0,Larga Distancia,Si,5857.69
+27.0,9.0,24.1,Larga Distancia,No,6253.73
+70.0,10.2,22.2,Larga Distancia,Si,5052.59
+34.0,9.5,24.5,Urbana,No,4485.81
+85.0,11.7,18.0,Urbana,No,7576.25
+64.0,11.1,25.5,Larga Distancia,Si,7014.93
+37.0,9.1,22.5,Urbana,No,5509.34
+43.0,6.0,19.8,Urbana,No,4144.76
+65.0,9.6,17.4,Larga Distancia,No,7901.63
+55.0,8.8,16.8,Larga Distancia,No,7487.38
+65.0,7.5,17.4,Urbana,No,5434.52
+29.0,8.3,16.9,Urbana,No,3723.74
+44.0,4.7,12.1,Urbana,No,2636.8
+41.0,9.2,20.2,Urbana,No,6243.69
+32.0,8.6,13.5,Larga Distancia,Si,4292.03
+35.0,7.6,13.7,Larga Distancia,No,5750.44
+63.0,11.4,21.9,Urbana,Si,4977.38
+76.0,9.9,15.2,Larga Distancia,No,6462.27
+49.0,9.3,21.0,Urbana,No,5943.31
+68.0,8.3,16.3,Urbana,No,6560.16
+31.0,6.3,5.7,Urbana,Si,2092.97
+42.0,12.0,21.6,Larga Distancia,Si,3761.09
+31.0,5.6,10.2,Urbana,No,3176.85
+44.0,8.0,18.6,Urbana,No,4836.5
+30.0,6.7,16.4,Larga Distancia,No,5792.17
+23.0,6.8,19.9,Larga Distancia,No,4852.29
+64.0,4.9,8.4,Urbana,Si,2015.92
+56.0,13.2,30.5,Urbana,No,7884.69
+72.0,7.0,16.3,Larga Distancia,No,8020.22
+45.0,8.3,19.3,Larga Distancia,No,7050.76
+42.0,12.9,32.3,Larga Distancia,No,8859.17
+36.0,7.4,20.2,Larga Distancia,No,5453.25
+51.0,4.3,14.3,Urbana,No,2653.2
+50.0,13.0,29.4,Urbana,Si,3882.65
+83.0,7.0,14.2,Urbana,No,5711.58
+34.0,8.1,16.1,Larga Distancia,Si,3887.36
+16.0,5.4,14.3,Larga Distancia,No,3311.97
+44.0,7.6,17.6,Urbana,No,3759.19
+60.0,5.6,8.7,Larga Distancia,No,5490.43
+36.0,8.5,21.0,Larga Distancia,No,6143.44
+94.0,12.6,23.7,Urbana,No,11449.17
+74.0,6.5,5.0,Urbana,Si,2268.34
+41.0,4.3,8.5,Larga Distancia,No,4083.13
+54.0,9.1,21.4,Urbana,No,5502.08
+64.0,8.5,18.7,Urbana,No,8693.92
+54.0,8.9,17.2,Urbana,No,6207.24
+67.0,5.1,11.1,Larga Distancia,No,5290.24
+54.0,9.5,19.4,Urbana,Si,2581.15
+37.0,10.1,23.6,Urbana,No,4651.44
+43.0,10.3,13.1,Larga Distancia,Si,3738.62
+40.0,6.3,16.5,Urbana,Si,2047.57
+59.0,8.5,21.4,Urbana,Si,3707.25
+79.0,3.2,8.7,Urbana,Si,1663.59
+38.0,8.3,12.7,Urbana,No,3252.7
+62.0,6.4,11.5,Larga Distancia,No,6662.92
+52.0,7.5,16.7,Larga Distancia,No,5075.74
+54.0,8.8,18.0,Larga Distancia,No,4829.81
+69.0,6.5,16.4,Larga Distancia,No,7893.2
+13.0,9.6,27.8,Urbana,No,6139.86
+34.0,10.0,20.3,Urbana,No,5227.56
+74.0,10.0,20.3,Urbana,Si,4741.1
+51.0,11.4,21.1,Larga Distancia,Si,6002.01
+41.0,7.2,11.4,Urbana,No,5945.0
+39.0,12.8,29.1,Larga Distancia,No,7517.47
+33.0,11.0,24.7,Larga Distancia,No,6670.38
+20.0,10.0,22.6,Urbana,No,4375.18
+36.0,4.3,6.5,Larga Distancia,No,3911.0
+33.0,4.8,10.4,Urbana,Si,1983.8
+53.0,12.2,22.5,Larga Distancia,No,8382.79
+26.0,5.7,17.9,Larga Distancia,No,4745.12
+28.0,10.5,21.6,Urbana,No,6812.69
+40.0,9.0,22.1,Larga Distancia,Si,4965.62
+63.0,11.0,22.8,Urbana,No,8116.53
+29.0,5.8,17.0,Urbana,Si,2993.57
+73.0,11.7,23.8,Urbana,No,8621.21
+6.0,6.8,14.4,Urbana,No,2653.79
+49.0,8.8,16.4,Larga Distancia,No,7268.61
+36.0,8.7,19.1,Urbana,No,3610.99
+23.0,12.2,28.3,Urbana,No,7303.31
+64.0,11.7,22.4,Urbana,Si,5194.29
+38.0,4.8,12.0,Urbana,No,3563.2
+68.0,8.9,18.4,Larga Distancia,No,7883.78
+43.0,6.4,10.0,Urbana,No,4067.82
+45.0,8.9,20.5,Urbana,No,6169.31
+70.0,12.1,22.8,Urbana,No,8557.4
+59.0,4.3,9.0,Urbana,No,5083.62
+52.0,10.2,16.2,Urbana,No,7346.61
+52.0,6.9,17.4,Larga Distancia,No,7238.07
+41.0,7.0,15.7,Urbana,Si,2062.66
+43.0,11.7,26.3,Larga Distancia,No,7573.07
+19.0,5.1,13.9,Urbana,No,3545.58
+47.0,8.2,13.7,Larga Distancia,No,7947.15
+80.0,9.8,19.8,Urbana,No,7105.14
+46.0,5.9,12.1,Urbana,Si,2838.79
+47.0,4.4,10.6,Larga Distancia,No,5697.78
+50.0,11.9,24.2,Larga Distancia,Si,5932.52
+51.0,7.4,20.8,Larga Distancia,No,5617.6
+82.0,11.2,17.2,Urbana,Si,5918.83
+46.0,8.1,15.6,Urbana,Si,2628.09
+37.0,8.7,19.3,Larga Distancia,No,5493.71
+56.0,7.3,14.0,Larga Distancia,No,6498.95
+17.0,4.0,11.3,Larga Distancia,Si,2650.55
+91.0,12.0,26.4,Urbana,No,8882.05
+57.0,9.1,16.1,Urbana,Si,4686.71
+38.0,7.6,12.0,Larga Distancia,No,5631.55
+64.0,12.3,27.7,Urbana,No,9242.88
+81.0,9.9,19.7,Urbana,Si,4225.31
+7.0,4.7,17.2,Larga Distancia,No,3503.77
+43.0,7.9,16.2,Urbana,Si,3970.97
+56.0,5.9,11.0,Urbana,No,4090.76
+41.0,9.9,21.6,Urbana,No,5353.95
+7.0,5.5,19.8,Urbana,No,3225.59
+58.0,6.9,13.1,Larga Distancia,No,6981.26
+56.0,9.3,13.3,Larga Distancia,No,7623.03
+36.0,6.1,13.7,Larga Distancia,No,4175.41
+22.0,7.8,18.9,Urbana,No,3262.87
+41.0,5.8,13.2,Urbana,No,3369.13
+53.0,9.9,24.1,Urbana,Si,4891.81
+64.0,11.6,22.3,Urbana,No,8374.86
+47.0,11.5,22.3,Larga Distancia,No,8152.91
+61.0,8.8,19.0,Urbana,No,6435.71
+47.0,10.4,24.6,Larga Distancia,No,6216.9
+42.0,10.2,20.5,Urbana,No,5946.67
+64.0,7.5,21.8,Larga Distancia,No,6135.06
+66.0,9.5,15.7,Urbana,Si,4245.99
+58.0,9.4,22.3,Urbana,No,6219.87
+40.0,7.9,19.1,Larga Distancia,No,6243.0
+33.0,9.0,23.6,Urbana,No,5003.62
+62.0,6.4,13.0,Urbana,Si,2764.54
+40.0,9.3,19.2,Urbana,No,4373.69
+53.0,7.9,13.0,Urbana,Si,2904.31
+47.0,11.8,28.6,Urbana,No,7140.78
+69.0,11.4,25.7,Larga Distancia,No,9845.92
+44.0,9.6,20.6,Larga Distancia,No,7402.12
+6.0,7.4,20.0,Urbana,Si,3142.93
+35.0,6.6,18.2,Urbana,No,4426.64
+42.0,6.2,13.8,Urbana,Si,2261.22
+35.0,7.8,18.6,Urbana,No,3636.42
+53.0,9.1,13.7,Larga Distancia,No,5720.91
+33.0,5.0,12.6,Urbana,No,2874.43
+50.0,8.5,14.6,Urbana,No,5808.71
+31.0,9.4,25.2,Urbana,No,6210.3
+37.0,7.8,15.6,Larga Distancia,Si,3389.47
+33.0,10.8,29.6,Larga Distancia,No,6459.33
+44.0,6.0,11.9,Urbana,No,2961.1
+11.0,8.3,24.6,Larga Distancia,Si,3952.59
+66.0,8.5,18.7,Urbana,No,6708.66
+35.0,4.2,5.7,Larga Distancia,Si,1935.82
+22.0,8.9,19.8,Urbana,No,5201.84
+80.0,10.0,16.1,Larga Distancia,No,9154.04
+31.0,9.5,21.3,Larga Distancia,No,7156.07
+41.0,6.0,7.4,Larga Distancia,No,3995.39
+28.0,6.2,13.1,Urbana,No,3935.89
+35.0,5.7,21.0,Larga Distancia,Si,3109.03
+50.0,8.8,17.3,Larga Distancia,Si,4973.77
+82.0,10.0,19.0,Urbana,No,9220.63
+18.0,6.6,15.6,Urbana,Si,3408.68
+47.0,8.2,15.9,Urbana,No,4600.61
+34.0,5.1,8.4,Urbana,Si,1621.47
+24.0,5.1,13.5,Larga Distancia,Si,2945.05
+46.0,8.0,15.9,Larga Distancia,No,7513.58
+11.0,7.2,23.5,Urbana,No,2853.42
+17.0,6.6,21.1,Larga Distancia,No,3620.07
+45.0,8.4,17.7,Urbana,No,3628.81
+80.0,6.8,14.7,Urbana,Si,3257.95
+62.0,7.4,12.6,Larga Distancia,No,5074.31
+70.0,5.2,12.3,Urbana,No,6051.28
+64.0,10.4,15.8,Larga Distancia,No,9530.52
+49.0,5.4,15.8,Urbana,Si,2585.45
